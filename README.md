@@ -1,3 +1,3 @@
 # Exposicion_Interfaces
 
-##Ejemplo del uso de interfaces en Java.
+Ejemplo del uso de interfaces en Java.
